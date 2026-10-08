@@ -1,0 +1,7 @@
+{
+  "name": "Railway Reservation System",
+  "description": "Book your train journey quickly, easily, and securely. Complete railway reservation platform with train search, seat booking, PNR management, ticket printing, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
